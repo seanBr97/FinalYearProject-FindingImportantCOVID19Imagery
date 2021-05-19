@@ -9,5 +9,5 @@ I left a sample of 4 publications in these folders just so people can still see 
 
 The oa_file_list was also reduced and now contains info for just these 4 publications as this file alone was roughly 500mb originally.
 
-RUNNING PROGRAM\
+RUNNING THE PROGRAM\
 If you run search_engine.py (supports python 3.5+) and enter 'ct' as the search query it will return images from the sample of 4 publications (they were chosen because they all return images for that query specifically, just incase someone wanted to run the searcher).
